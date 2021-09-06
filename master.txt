@@ -1,47 +1,4 @@
 This is my first master file for the git demo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+I make some more changes into this file. 
 
